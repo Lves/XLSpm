@@ -6,9 +6,9 @@
 //
 
 public class XLTools {
-    public static var name: String = "name003"
+    public static var name: String = "name004"
     
     public class func getAge() -> Int {
-        return 3
+        return 4
     }
 }
